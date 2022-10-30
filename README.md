@@ -5,7 +5,7 @@
    target="_blank" 
    alt="react_crud_state_ts_tailwind - teste já" 
    title="react_crud_state_ts_tailwind - teste já"
-   href="http://nlw-return-22-05.vercel.app/"> 
+   href="https://react-crud-state-ts-tailwind.vercel.app/"> 
   <img 
      alt="react_crud_state_ts_tailwind - teste já" 
      title="react_crud_state_ts_tailwind - teste já"
@@ -31,7 +31,7 @@
 Projeto para demonstrar o Operador Condicional Ternário para melhorar a experiência do usuário ao adicionar um componente para mostrar que a lista está vazia ao invés de não mostrar nada em tela.
 
 ## :sparkles: Testando o projeto
-Você pode testar o projeto **[clicando aqui](http://nlw-return-22-05.vercel.app/)**.</br>
+Você pode testar o projeto **[clicando aqui](https://react-crud-state-ts-tailwind.vercel.app/)**.</br>
 
 ## :zap: Tecnologias</h2>
 <ul>
