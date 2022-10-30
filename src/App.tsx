@@ -29,11 +29,7 @@ export function App() {
           setAllTasks={setAllTasks}
           handleAddItem={handleAddItem}
         />
-        <TasksList
-          newTask={newTask}
-          allTasks={allTasks}
-          handleRemoveItem={handleRemoveItem}
-        />
+        <TasksList allTasks={allTasks} handleRemoveItem={handleRemoveItem} />
       </div>
     </div>
   );
