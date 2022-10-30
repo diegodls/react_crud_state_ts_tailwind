@@ -18,7 +18,11 @@ export function TasksList(props: TasksListProps) {
       {allTasks && allTasks.length > 0 ? (
         <ul>
           {allTasks.map((task: TaskProps) => (
-            <ListItem task={task} handleRemoveItem={handleRemoveItem} />
+            <ListItem
+              key={task.id}
+              task={task}
+              handleRemoveItem={handleRemoveItem}
+            />
           ))}
         </ul>
       ) : (
