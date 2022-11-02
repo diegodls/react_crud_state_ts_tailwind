@@ -53,7 +53,7 @@ Neste projeto foi posto em prática os princípios de componentes, usabilidade e
 Pare executar essa aplicação em seu computador, faça um git clone para o seu dispositivo:</br>
 
 ```
-git clone https://github.com/diegodls/nlw_return_22-05.git
+git clone https://github.com/diegodls/react_crud_state_ts_tailwind.git
 ```
 
 Navegue pelo terminal até a pasta raiz do projeto e execute o comando `yarn` (ou `npm install`, caso utilize npm), isso fará que sejam instaladas as dependências do projeto.</br>
